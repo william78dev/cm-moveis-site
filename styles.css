@@ -701,3 +701,7 @@ footer > a:last-child {
     order: 3;
   }
 }
+
+.tile > div > span {
+  display: none;
+}

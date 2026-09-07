@@ -702,7 +702,6 @@ footer > a:last-child {
   }
 }
 
-.tile > div > span,
-.process li > span {
+.tile > div > span {
   display: none;
 }

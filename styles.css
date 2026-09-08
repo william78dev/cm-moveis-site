@@ -494,6 +494,13 @@ button:focus-visible {
   color: var(--gold-light);
 }
 
+.contact-card .service-area {
+  margin: 4px 0 8px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
 /* Botão flutuante do WhatsApp */
 
 .whatsapp {
